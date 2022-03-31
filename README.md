@@ -24,6 +24,8 @@ The notes begin with simple operations such as addition
 'a' + 'b' = 'ab'
 5 + 12 = 17
 
+```
+
 
 and and end with the construction of graphs using ```seaborn```
 

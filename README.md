@@ -1,6 +1,6 @@
 #### Lectures from the course 
 
-## "Data Analyst" 
+## "Data Analytic" 
 
 from  ***Anatoly Karpov***
 
